@@ -1,1 +1,0 @@
-(ns conways.core)
